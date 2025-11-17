@@ -50,8 +50,8 @@ Week 1 – Marching Ants Selection Tool
 Live demo: https://gbsr.github.io/week-1-marching-ants-selection-tool/  
 Repository: https://github.com/gbsr/week-1-marching-ants-selection-tool
 
-Week 2 - Boids Simulation
-Live demo: https://gbsr.github.io/week-2-boids/
+Week 2 – Boids Simulation  
+Live demo: https://gbsr.github.io/week-2-boids/  
 Repository: https://github.com/gbsr/week-2-boids
 
 ## About Me
