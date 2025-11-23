@@ -54,6 +54,10 @@ Week 2 – Boids Simulation
 Live demo: https://gbsr.github.io/week-2-boids/  
 Repository: https://github.com/gbsr/week-2-boids
 
+Week 3 - Motion Builder JS  
+Live demo: https://gbsr.github.io/week-3-motion-builder-js/  
+Repository: https://github.com/gbsr/week-3-motion-builder-js  
+
 ## About Me
 
 I’m Anders Hofsten — a junior frontend developer currently building my own structure and momentum through practical weekly projects. I enjoy working on interactive tools, visual systems, and UI/UX experiments, and I want to develop the skillset to create them independently.
