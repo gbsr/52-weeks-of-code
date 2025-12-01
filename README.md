@@ -56,7 +56,11 @@ Repository: https://github.com/gbsr/week-2-boids
 
 Week 3 - Motion Builder JS  
 Live demo: https://gbsr.github.io/week-3-motion-builder-js/  
-Repository: https://github.com/gbsr/week-3-motion-builder-js  
+Repository: https://github.com/gbsr/week-3-motion-builder-js 
+
+Week 4 - Flow Field Visualiser & Tester  
+Live demo: https://gbsr.github.io/week-4-vector-field-designer/  
+Repo: https://github.com/gbsr/week-4-vector-field-designer  
 
 ## About Me
 
