@@ -66,7 +66,7 @@ Week 5 - Tendril
 Live demo: https://gbsr.github.io/week-5-tendril/  
 Repo: https://github.com/gbsr/week-5-tendril  
 
-Week 6 - No Project because I filed miserably and life also got in the way ;)  
+Week 6 - No Project because I failed miserably and life also got in the way ;)  
 
 Week 7 - World Map Generator (failed, sort of)  
 Live Demo: https://gbsr.github.io/week-7-world-map-generator/  
