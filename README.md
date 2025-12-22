@@ -66,6 +66,12 @@ Week 5 - Tendril
 Live demo: https://gbsr.github.io/week-5-tendril/  
 Repo: https://github.com/gbsr/week-5-tendril  
 
+Week 6 - No Project because I filed miserably and life also got in the way ;)  
+
+Week 7 - World Map Generator (failed, sort of)  
+Live Demo: https://gbsr.github.io/week-7-world-map-generator/  
+Repo: https://github.com/gbsr/week-7-world-map-generator  
+
 ## About Me
 
 I’m Anders Hofsten — a junior frontend developer currently building my own structure and momentum through practical weekly projects. I enjoy working on interactive tools, visual systems, and UI/UX experiments, and I want to develop the skillset to create them independently.
