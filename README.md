@@ -1,6 +1,6 @@
 # 52 Weeks of Code
 
-52 Weeks of Code is my attempt to ship one small coding project every week for a year.
+52 Weeks of Code is my attempt to ship one small coding project every week(ish) for a year.
 
 The challenge is about consistency, experimentation, and learning by doing. It doesn’t matter if a project is tiny, experimental, unfinished, or overly ambitious. The point is to build, ship, learn, repeat, and improve through iteration.
 
